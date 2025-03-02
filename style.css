@@ -194,7 +194,7 @@ button{
     display: flex;
     min-height: 770px; 
     width: 100%;
-    background-image: url(./carint-html/images/slider-bg3.jpg);
+    background-image: url(./images/slider-bg3.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -437,7 +437,7 @@ button{
     margin: 100px 0;
     height: 400px;
     width: 100%;
-    background-image: url(./carint-html/images/track-bg.jpg);
+    background-image: url(./images/track-bg.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
